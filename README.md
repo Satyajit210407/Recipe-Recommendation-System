@@ -47,9 +47,7 @@ Download `RAW_recipes.csv` and place it inside the `data` folder.
 ```text
 Recipe-Recommendation-System/
 │
-├── data/
-│   └── RAW_recipes.csv
-│
+├── .gitignore
 ├── Recipe.py
 ├── Recipe_Recommendation_System.ipynb
 ├── requirements.txt
